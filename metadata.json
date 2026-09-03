@@ -1,0 +1,6 @@
+{
+  "name": "Kasir Warung Niswa",
+  "description": "Aplikasi kasir dan kelola menu makanan untuk Warung Makan Niswa",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
